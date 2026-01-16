@@ -11,8 +11,8 @@ name = "LuaLS"
 languages = ["Lua", "EmmyLuadoc"]
 
 [grammars.lua]
-repository = "https://github.com/tree-sitter-grammars/tree-sitter-lua"
-commit = "d76023017f7485eae629cb60d406c7a1ca0f40c9"
+repository = "https://github.com/notpeter/tree-sitter-playdatelua"
+commit = "8fb004a9e2242846f4e1ea8f8fe8e11242e21571"
 
 [grammars.emmyluadoc]
 repository = "https://github.com/EmmyLuaLs/tree-sitter-emmyluadoc"
